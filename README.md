@@ -1,4 +1,4 @@
-# Python-EC-Lab
+# Python-MineSweeper
 
 MIneSweeper game consists of a 16x16 matrix A cell (square) can consist of a bomb, if you click a bomb you lose If you click a cell and it is NOT a bomb, you get a number that tells you how many bombs are nearby, the goal is to capture all squares that are not bombs
 
